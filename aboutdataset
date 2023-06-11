@@ -1,0 +1,26 @@
+# About Dataset
+
+Number Feature Names Data Type Description
+1 Age numerical Age
+2 Sex boolean Gender (1 = male; 0 = female)
+3 ind_typ_angina boolean Typical angina (0/1)
+4 ind_atyp_angina boolean Atypical angina (0/1)
+5 ind_non_ang_pain boolean Non-anginal chest pain (0/1)
+6 resting_BP numerical Rest blood pressure
+7 Serum_cholest numerical Serum cholestoral in mg / dl
+8 blood_sugar_exc120 boolean Fasting blood glucose> 120mg / dl (0/1)
+9 ind_for_ecg_1 boolean Ecg 1 indicator (0/1)
+10 ind_for_ecg_2 boolean Ecg 2 indicator (0/1)
+11 Max_heart_rate numerical Maximum heart rate
+12 ind_exerc_angina boolean Exercise-induced angina indicator (0/1)
+13 ST_dep_by_exerc numerical Exercise-induced ST depression with respect to rest
+14 ind_for_slope_up_exerc boolean Peak exercise ST segment upward slope indicator (0/1)
+15 ind_for_slope_down_exerc boolean Down slope indicator of peak exercise ST segment (0/1)
+16 num_vessels_fluro numerical The number of great vessels colored by fluoroscopy (0-3)
+17 Thal_rev_defect boolean Thal reversible damage indicator (0/1)
+18 Thal_fixed_defect boolean Thal permanent damage indicator (0/1)
+19 Disease boolean Grade (0: Disease Present 1: No Disease)
+
+Dataset Source: 
+https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QWXVNT
+https://www.kaggle.com/datasets/muhammetvarl/heart-disease-dataset
